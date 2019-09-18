@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="565ce8c9-4c7b-46c5-9409-1512f439f136" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Week-2/Dictionary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week-2/Sets.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,11 +31,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Week-2/Dictionary.py">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="501">
+              <caret line="31" column="19" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Week-2/Sets.py">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="355">
-              <caret line="28" column="41" selection-start-line="28" selection-start-column="41" selection-end-line="28" selection-end-column="41" />
+              <caret line="33" column="34" selection-start-line="33" selection-start-column="34" selection-end-line="33" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -60,6 +69,7 @@
         <option value="$PROJECT_DIR$/Week-2/List1.py" />
         <option value="$PROJECT_DIR$/Week-2/Tuples.py" />
         <option value="$PROJECT_DIR$/Week-2/Dictionary.py" />
+        <option value="$PROJECT_DIR$/Week-2/Sets.py" />
       </list>
     </option>
   </component>
@@ -112,7 +122,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Dictionary">
+  <component name="RunManager" selected="Python.Sets">
     <configuration name="Dictionary" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="NPTEL-Data_Science" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -155,6 +165,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Sets" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="NPTEL-Data_Science" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week-2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week-2/Sets.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Tuples" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="NPTEL-Data_Science" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -178,6 +209,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Sets" />
         <item itemvalue="Python.Dictionary" />
         <item itemvalue="Python.Tuples" />
         <item itemvalue="Python.List1" />
@@ -223,7 +255,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568738880189</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Dictionary Completed">
+      <created>1568787315096</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1568787315096</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -254,7 +293,8 @@
     <MESSAGE value="list completed" />
     <MESSAGE value="Tuples Completed" />
     <MESSAGE value="ranamed" />
-    <option name="LAST_COMMIT_MESSAGE" value="ranamed" />
+    <MESSAGE value="Dictionary Completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dictionary Completed" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/List/list1.py" />
@@ -266,6 +306,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Week-2/Dictionary.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="501">
+          <caret line="31" column="19" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Week-2/List.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -273,10 +320,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Week-2/Dictionary.py">
+    <entry file="file://$PROJECT_DIR$/Week-2/Sets.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="355">
-          <caret line="28" column="41" selection-start-line="28" selection-start-column="41" selection-end-line="28" selection-end-column="41" />
+          <caret line="33" column="34" selection-start-line="33" selection-start-column="34" selection-end-line="33" selection-end-column="34" />
         </state>
       </provider>
     </entry>
