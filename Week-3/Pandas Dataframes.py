@@ -70,6 +70,6 @@ print(data_frame2['FuelType'].value_counts())
 data_frame2['MetColor'].fillna(data_frame2['MetColor'].mode()[0],inplace=True)
 print(data_frame2.isnull().sum())
 
-#
+# filling all missing value with 1 shot
 data_frame3 = data_frame3.apply(lambda x:x.fillna(x.mean()) if x.dtype == 'float' else x.fillna(x.value_counts().index[0]))
 print(data_frame3.isnull().sum())
